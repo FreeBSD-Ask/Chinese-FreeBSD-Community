@@ -1,5 +1,7 @@
 # FreeBSD 基金会章程
 
+- 原文地址：<https://www.freebsdfoundation.org/wp-content/uploads/2015/12/FoundationBylaws.pdf> PHL_A 1370415 v 1 
+
 FreeBSD 基金会 科罗拉多州非营利公司
 
 ## 第 1 章：定义
