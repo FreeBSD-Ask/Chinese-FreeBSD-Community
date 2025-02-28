@@ -1,6 +1,9 @@
 # Table of contents
 
 * [FreeBSD 中文社区](README.md)
+
+## 社区建设
+
 * [FreeBSD 中文社区（CFC）章程  ](cfc.md)
 * [FreeBSD 中文社区行为规范（CoC）](CODE_OF_CONDUCT.md)
 * [FreeBSD 基金会章程](zhangcheng.md)
@@ -8,6 +11,9 @@
 * [FreeBSD FAQ](di-2-zhang-freebsd-faq.md)
 * [FreeBSD 中文社区发展规划](di-3-zhang-freebsd-zhong-wen-she-qu-fa-zhan-gui-hua.md)
 * [FreeBSD 中文社区文章翻译表](di-4-zhang-freebsd-zhong-wen-she-qu-wen-zhang-fan-yi-biao.md)
+
+## 文学故事（不代表社区意见，仅个人见解）
+
 * [开源与苦难哲学](di-19.1-jie-linux-yu-ku-nan-zhe-xue.md)
 * [Linux 败局与 FreeBSD 败局](di-19.2-jie-linux-bai-ju-yi-ding-bo-freebsd-da-bai-ju.md)
 * [驳《还有人记得 Linux 之前，那个理想又骄傲的 BSD 吗？》](19.3-linux-da-bai-ju.md)
