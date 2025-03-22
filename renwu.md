@@ -39,9 +39,9 @@
 	maxRequestBuffer = 1048576000 # 扩大缓冲区，约 1 GB
 ```
 
+## 开放任务
 
-
-## FreeBSD ToDo
+### FreeBSD ToDo
 
 - [ ] 整合现有的上游 FreeBSD 社区文章
 - [ ] fail2ban（须适配自带的几种防火墙）
@@ -156,7 +156,7 @@
 
 
 
-## OpenBSD ToDo
+### OpenBSD ToDo
 
 - [ ] OpenBSD
   - [ ] KDE5（现在 UEFI 下进入桌面黑屏）
@@ -189,7 +189,7 @@
     - [ ] pkgsrc
   - [ ] 嵌入式
 
-## 点击此处展开 NetBSD ToDo
+### NetBSD ToDo
   
 - [ ] NetBSD
   - [ ] NetBSD 调优
@@ -227,7 +227,7 @@
 
 
 
-## 点击此处展开 DragonFlyBSD ToDo
+### DragonFlyBSD ToDo
   
 - [ ] DragonFlyBSD
   - [ ] DragonFlyBSD调优
