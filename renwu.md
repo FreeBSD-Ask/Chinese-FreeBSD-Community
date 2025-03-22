@@ -19,7 +19,7 @@
 
 以下是一个可用的 `.gitconfig` 的文件示例：
 
-```json
+```ini
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
