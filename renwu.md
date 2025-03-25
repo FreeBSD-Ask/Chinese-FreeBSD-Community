@@ -44,7 +44,7 @@
 ### FreeBSD ToDo
 
 - [ ] 整合现有的上游 FreeBSD 社区文章
-- [ ] fail2ban（须适配自带的几种防火墙）
+- [X] fail2ban（须适配自带的几种防火墙）
 - [ ] 删除或重写“第 9.2 节 jail 更新”
 - [ ] 使用关键字 `enable`、`disable`、`delete` 替代旧式 sysrc 写法
 - [X] 介绍伯克利大学与校训思想
