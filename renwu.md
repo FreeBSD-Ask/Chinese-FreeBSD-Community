@@ -43,10 +43,11 @@
 
 ### FreeBSD ToDo
 
+- [ ] 为所有涉及的开源项目列出可行的捐款渠道（如有），鼓励捐赠或贡献代码，做些力所能及之事
 - [ ] 整合现有的上游 FreeBSD 社区文章
 - [X] fail2ban（须适配自带的几种防火墙）
 - [ ] 删除或重写“第 9.2 节 jail 更新”
-- [ ] 使用关键字 `enable`、`disable`、`delete` 替代旧式 sysrc 写法
+- [ ] 使用关键字 `enable`、`disable`、`delete` 替代旧式 sysrc 写法。不能完全替代遇到了 Bug [rc keywords: enable, disable, delete cannot manage certain built-in rc startup items.](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=285543)
 - [X] 介绍伯克利大学与校训思想
 - [ ] 从 FreeBSD 期刊引入 IPv6  教程
 - [ ] Makefile
