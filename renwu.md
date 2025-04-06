@@ -56,6 +56,7 @@
 - [X] 从 FreeBSD 期刊引入 Zabbix 教程
 - [X] gitlab-ee
 - [ ] 为所有需要额外配置的文件，使用命令 `pkg info -D` 列出正文如此配置之原因
+  - [ ] 翻译 `pkg info -D` 重要输出
 - [ ] 重写“第 4.1 节 安装显卡驱动及 Xorg（必看）”，尤其是 N 卡驱动部分，目前是无效的，必须重写
 - [X] `pkg autoremove`（会把整个系统都带走）及 `pkg delete`（破坏依赖）都不是正经的卸载软件及孤包依赖的方法，`pkg-rmleaf` 亦已过时无法使用。需要找到正常合理的卸载软件包的方法。`pkg_rmleaves` 似乎可以
 - [X] 补充一些 WinSCP、XShell 的替代工具，避免单一来源
