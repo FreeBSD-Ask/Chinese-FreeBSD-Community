@@ -44,6 +44,7 @@
 
 ### FreeBSD ToDo
 
+- [ ] [security/sudo-rs](https://www.freshports.org/security/sudo-rs/)：RUST 重构的 sudo 和 su
 - [ ] GUI 代理软件
   - [ ] 基于 mihomo
 - [ ] 为所有涉及的开源项目列出可行的捐款渠道（如有），鼓励捐赠或贡献代码，做些力所能及之事
