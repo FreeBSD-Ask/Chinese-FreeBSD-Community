@@ -44,6 +44,11 @@
 
 ### FreeBSD ToDo
 
+- [ ] Vagrant FreeBSD
+  - [ ] ZFS
+  - [ ] 预置 GUI
+  - [ ] 兼容 VM、VB 虚拟机
+  - [ ] 兼容 FreeBSD、Linux、Windows 宿主机
 - [ ] [security/sudo-rs](https://www.freshports.org/security/sudo-rs/)：RUST 重构的 sudo 和 su
 - [ ] GUI 代理软件
   - [ ] 基于 mihomo
