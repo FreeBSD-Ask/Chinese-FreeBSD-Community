@@ -42,6 +42,10 @@
 
 ## 开放任务
 
+### 总体目标
+
+使之成为“一本书”
+
 ### FreeBSD ToDo
 
 - [ ] Vagrant FreeBSD
