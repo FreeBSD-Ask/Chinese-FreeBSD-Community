@@ -170,7 +170,7 @@
 ### OpenBSD ToDo
 
 - [ ] OpenBSD
-  - [ ] KDE5（现在 UEFI 下进入桌面黑屏）
+  - [X] KDE5
   - [ ] QQ？原生可能吗
   - [ ] 微信？原生可能吗
   - [ ] Wine
@@ -207,7 +207,7 @@
   - [ ] 桌面
     - [ ] 火狐浏览器
     - [ ] Chromium
-    - [ ] KDE 4（现在进入桌面黑屏）
+    - [X] KDE 4
     - [ ] QQ
     - [ ] 微信
     - [ ] Wine
