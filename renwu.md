@@ -33,7 +33,7 @@
 [commit]
 	gpgsign = true # 使用密钥签名时需要
 [core]
-	autocrlf = true
+	autocrlf = true # 自动调整末尾回车与换行
 [http]
 	proxy = http://localhost:7890 # 设置使用 http 代理
 	postBuffer = 1048576000 # 扩大缓冲区，约 1 GB
