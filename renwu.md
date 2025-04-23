@@ -31,7 +31,7 @@
 	email = # 你的邮箱
 	signingkey = # 你的密钥 ID，使用密钥签名时需要
 [commit]
-  gpgsign = true # 使用密钥签名时需要
+	gpgsign = true # 使用密钥签名时需要
 [core]
 	autocrlf = true
 [http]
